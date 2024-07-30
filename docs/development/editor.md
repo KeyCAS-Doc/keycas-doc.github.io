@@ -60,14 +60,15 @@ config.on('silex:grapesjs:start', () => {
 ## 贡献代码
 
 如果您希望为我们贡献代码，请遵循以下步骤
+
 {: .warning }
-    > 注意，以下出现的所有`<>`并不是代码的一部分，它只是用来告诉您应该修改哪里，因此在您修改完成后请删除他们
+> 注意，以下出现的所有`<>`并不是代码的一部分，它只是用来告诉您应该修改哪里，因此在您修改完成后请删除他们
 
 {: .important }
-    > 以下操作默认您有安装Git以及Node.js
+> 以下操作默认您有安装Git以及Node.js
 
 {: .note }
-    > [IntelliJ IDEA](https://www.jetbrains.com/idea/)为学生提供免费版本，推荐使用。
+> [IntelliJ IDEA](https://www.jetbrains.com/idea/)为学生提供免费版本，推荐使用。
 
 
 1. **分叉(Fork)项目**
