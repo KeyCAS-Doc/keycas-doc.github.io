@@ -81,21 +81,21 @@ config.on('silex:grapesjs:start', () => {
 
 您需要一个本地副本（通过命令行）
 
-	```bash
-	# 打开命令行工具/终端
-	# 进入您希望使用的路径（这步可省略）
-	cd <your-desired-working-directory>
-	git clone https://github.com/<您的用户名>/KeyCAS.git
-	```
+```bash
+# 打开命令行工具/终端
+# 进入您希望使用的路径（这步可省略）
+cd <your-desired-working-directory>
+git clone https://github.com/<您的用户名>/KeyCAS.git
+```
 
 3. **设置上游仓库**
 
 请将[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)设置为上游仓库，以便您提交代码（执行pull request）
 
-	```bash
-	cd KeyCAS
-	git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
-	```
+```bash
+cd KeyCAS
+git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
+```
 
 4. **创建一个新的分支**
 
@@ -134,7 +134,7 @@ git commit -m "This is a short message about the change made in this commit"
 
 提交您的代码
 ```bash
-	git push origin <branch-name>
+git push origin <branch-name>
 ```
 
 8. **Create a pull request**
