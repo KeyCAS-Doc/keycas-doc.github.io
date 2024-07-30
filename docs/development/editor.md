@@ -20,10 +20,6 @@ parent: 开发者
 </details>
 
 ---
-## 使用的开源项目
-
-我们的编辑器是基于开源项目[Silex](https://www.silex.me/)进行的修改。其运用了开源Web构建框架[GrapesJS](https://grapesjs.com/). 我们的编辑器源代码储存在[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS).
-
 ## 相关链接
 
 * [Silex meta repository](https://github.com/silexlabs/silex-meta)
