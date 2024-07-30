@@ -2,6 +2,7 @@
 layout: default
 title: 编辑器
 parent: 开发者
+nav_order: 2
 ---
 # 编辑器
 {: .no_toc }
