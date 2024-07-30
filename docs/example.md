@@ -66,6 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 ## 标签
+{: .d-inline-block }
+
 Default label
 {: .label }
 
