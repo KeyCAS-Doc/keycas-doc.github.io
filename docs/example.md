@@ -66,6 +66,23 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 ## 标签
+Default label
+{: .label }
+
+Blue label
+{: .label .label-blue }
+
+Stable
+{: .label .label-green }
+
+New release
+{: .label .label-purple }
+
+Coming soon
+{: .label .label-yellow }
+
+Deprecated
+{: .label .label-red }
 
 Default label
 {: .label }
