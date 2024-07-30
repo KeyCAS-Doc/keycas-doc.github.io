@@ -74,7 +74,7 @@ config.on('silex:grapesjs:start', () => {
 
   在GitHub中打开[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)，点击右上角的`Fork`。这会想您的账户添加一份该项目的副本
 
-2. **克隆项目**
+1. **克隆项目**
 
   您需要一个本地副本（通过命令行）
 
@@ -85,7 +85,7 @@ config.on('silex:grapesjs:start', () => {
   git clone https://github.com/<您的用户名>/KeyCAS.git
   ```
 
-3. **设置上游仓库**
+1. **设置上游仓库**
 
   请将[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)设置为上游仓库，以便您提交代码（执行pull request）
 
@@ -116,7 +116,7 @@ config.on('silex:grapesjs:start', () => {
   npm install
   ```
 
-6. **修改**
+1. **修改**
 
   在您完成修改或添加内容之后，您需要提交一个commit
 
@@ -127,13 +127,13 @@ config.on('silex:grapesjs:start', () => {
   git commit -m "This is a short message about the change made in this commit"
   ```
 
-7. **提交**
+1. **提交**
 
   提交您的代码
   ```bash
   git push origin <branch-name>
   ```
 
-8. **Create a pull request**
+1. **Create a pull request**
 
   [创建您的pull request](https://help.github.com/articles/creating-a-pull-request/)，请尽量确保标题简洁易懂
