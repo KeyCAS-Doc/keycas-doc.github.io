@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 快速开始指南（非正式
+title: 快速开始指南（非正式）
 parent: 开发者
 ---
 # 编辑器快速开始指南（非正式
