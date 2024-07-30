@@ -72,68 +72,68 @@ config.on('silex:grapesjs:start', () => {
 
 1. **分叉(Fork)项目**
 
-在GitHub中打开[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)，点击右上角的`Fork`。这会想您的账户添加一份该项目的副本
+  在GitHub中打开[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)，点击右上角的`Fork`。这会想您的账户添加一份该项目的副本
 
 2. **克隆项目**
 
-您需要一个本地副本（通过命令行）
+  您需要一个本地副本（通过命令行）
 
-```bash
-# 打开命令行工具/终端
-# 进入您希望使用的路径（这步可省略）
-cd <your-desired-working-directory>
-git clone https://github.com/<您的用户名>/KeyCAS.git
-```
+  ```bash
+  # 打开命令行工具/终端
+  # 进入您希望使用的路径（这步可省略）
+  cd <your-desired-working-directory>
+  git clone https://github.com/<您的用户名>/KeyCAS.git
+  ```
 
 3. **设置上游仓库**
 
-请将[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)设置为上游仓库，以便您提交代码（执行pull request）
+  请将[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)设置为上游仓库，以便您提交代码（执行pull request）
 
-```bash
-cd KeyCAS
-git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
-```
+  ```bash
+  cd KeyCAS
+  git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
+  ```
 
 4. **创建一个新的分支**
 
-{: .note }
-> 这步可以省略，但是保持分支是个好习惯
+  {: .note }
+  > 这步可以省略，但是保持分支是个好习惯
 
-创建您的分支
-```bash
-git checkout -b <new-branch-name>
-```
-然后设置分支的上游仓库
-```bash
-git branch --set-upstream-to=dev <new-branch-name>
-```
-5. **安装依赖**
+  创建您的分支
+  ```bash
+  git checkout -b <new-branch-name>
+  ```
+  然后设置分支的上游仓库
+  ```bash
+  git branch --set-upstream-to=dev <new-branch-name>
+  ```
+  5. **安装依赖**
 
-{: .warning }
-> 请确保您的Node版本>=18
+  {: .warning }
+  > 请确保您的Node版本>=18
 
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 
 6. **修改**
 
-在您完成修改或添加内容之后，您需要提交一个commit
+  在您完成修改或添加内容之后，您需要提交一个commit
 
-{: .note }
-> 如果您使用[IntelliJ IDEA](https://www.jetbrains.com/idea/)则可以使用其左上角的图形化界面提交
+  {: .note }
+  > 如果您使用[IntelliJ IDEA](https://www.jetbrains.com/idea/)则可以使用其左上角的图形化界面提交
 
-```bash
-git commit -m "This is a short message about the change made in this commit"
-```
+  ```bash
+  git commit -m "This is a short message about the change made in this commit"
+  ```
 
 7. **提交**
 
-提交您的代码
-```bash
-git push origin <branch-name>
-```
+  提交您的代码
+  ```bash
+  git push origin <branch-name>
+  ```
 
 8. **Create a pull request**
 
-[创建您的pull request](https://help.github.com/articles/creating-a-pull-request/)，请尽量确保标题简洁易懂
+  [创建您的pull request](https://help.github.com/articles/creating-a-pull-request/)，请尽量确保标题简洁易懂
