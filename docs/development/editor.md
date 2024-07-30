@@ -90,8 +90,10 @@ config.on('silex:grapesjs:start', () => {
 	git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
 	```
 4. **创建一个新的分支**
+
 {: .note }
     > 这步可以省略，但是保持分支是个好习惯
+
 创建您的分支
 ```bash
 git checkout -b <new-branch-name>
@@ -101,6 +103,7 @@ git checkout -b <new-branch-name>
 git branch --set-upstream-to=dev <new-branch-name>
 ```
 5. **安装依赖**
+
 {: .warning }
     > 请确保您的Node版本>=18
 
@@ -109,8 +112,10 @@ git branch --set-upstream-to=dev <new-branch-name>
 ```
 
 6. **修改**
+
 在您完成修改或添加内容之后，您需要提交一个commit
 {: .note }
+
     > 如果您使用[IntelliJ IDEA](https://www.jetbrains.com/idea/)则可以使用其左上角的图形化界面提交
 ```bash
 git commit -m "This is a short message about the change made in this commit"
