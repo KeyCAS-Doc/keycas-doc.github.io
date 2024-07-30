@@ -46,6 +46,7 @@ config.on('silex:startup:end', () => {
 与组件类似，我们也可以通过配置文件`client-config.js`为编辑器添加新的GrapesJS插件
 
 例如：
+
 ```typescript
 import 'https://unpkg.com/grapesjs-navbar'
 //....rest part of the config
@@ -57,6 +58,7 @@ config.on('silex:grapesjs:start', () => {
         ]
     })
 ```
+
 ## 贡献代码
 
 如果您希望为我们贡献代码，请遵循以下步骤
@@ -78,12 +80,14 @@ config.on('silex:grapesjs:start', () => {
 2. **克隆项目**
 
 您需要一个本地副本（通过命令行）
+
 	```bash
 	# 打开命令行工具/终端
 	# 进入您希望使用的路径（这步可省略）
 	cd <your-desired-working-directory>
 	git clone https://github.com/<您的用户名>/KeyCAS.git
 	```
+
 3. **设置上游仓库**
 
 请将[JeremyZXi/KeyCAS](https://github.com/JeremyZXi/KeyCAS)设置为上游仓库，以便您提交代码（执行pull request）
@@ -92,6 +96,7 @@ config.on('silex:grapesjs:start', () => {
 	cd KeyCAS
 	git remote add upstream https://github.com/JeremyZXi/KeyCAS.git
 	```
+
 4. **创建一个新的分支**
 
 {: .note }
@@ -111,7 +116,7 @@ git branch --set-upstream-to=dev <new-branch-name>
 > 请确保您的Node版本>=18
 
 ```bash
-	npm install
+npm install
 ```
 
 6. **修改**
