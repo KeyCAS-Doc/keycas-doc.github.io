@@ -2,6 +2,7 @@
 layout: default
 title: 快速开始指南（非正式）
 parent: 开发者
+nav_order: 1
 ---
 # 编辑器快速开始指南（非正式
 {: .no_toc }
