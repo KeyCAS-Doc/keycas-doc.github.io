@@ -166,7 +166,7 @@ callouts:
     title: 笔记
     color: purple
   warning:
-    title: 警告
+    title: 注意
     color: red
 
 # Google Analytics Tracking (optional)

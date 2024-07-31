@@ -11,10 +11,12 @@ KeyCas Doc 撰写大纲
 
 {: .warning }
 > 为了防止用户懒得看，越简单越好
+>
 > 最好加上gif
 
 {: .new}
 > 要不要分两个，一个快速入手，一个详细说明
+>
 > 双语？
 
 
@@ -23,8 +25,10 @@ KeyCas Doc 撰写大纲
 ## 2. Getting started
 进入web editor\
 connect with gitlab\
-~关掉notification~
+~~关掉notification~~
+创建
 ## 3. Editing webpage
+copy开发者,编辑器
 ## 4. publishing webpage
 requesting index\
 making your website live
