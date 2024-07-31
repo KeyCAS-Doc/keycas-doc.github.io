@@ -18,7 +18,6 @@ description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keycas-doc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
-logo: "/assets/images/logo.png"
 permalink: pretty
 
 exclude:
@@ -50,7 +49,7 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
