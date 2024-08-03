@@ -26,8 +26,14 @@ permalink: /
 ## 什么是KeyCAS？
 
 <iframe width="110" height="200" src="https://www.myinstants.com/instant/buzzer-89244/embed/" frameborder="0" scrolling="no"></iframe>
-<iframe width="110" height="200" src="https://www.myinstants.com/en/instant/oh-my-god-bro-oh-hell-nah-man-42939/?utm_source=copy&utm_medium=share" frameborder="0" scrolling="no"></iframe>
 
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/wait-wait-wait-what-the-hell-legend-sound-65445/embed/" frameborder="0" scrolling="no"></iframe>
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/chinese-guy-talk-with-vine-boom-75946/embed/" frameborder="0" scrolling="no"></iframe>
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/cat-laugh-meme-1-15761/embed/" frameborder="0" scrolling="no"></iframe>
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/snore-mimimimimimi-76562/embed/" frameborder="0" scrolling="no"></iframe>
 ## 为什么使用KeyCAS项目？
 用于创建网站，展示cas，招募。。。。
 
