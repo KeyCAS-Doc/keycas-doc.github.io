@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 创建账户
+title: 创建网站
 nav_order: 3
 ---
 
