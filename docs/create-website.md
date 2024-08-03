@@ -1,15 +1,9 @@
 ---
 layout: default
-title: 开始使用
-nav_order: 2
+title: 创建账户
+nav_order: 3
 ---
-## 开始使用编辑器
-访问[https://keycas.cn/](https://keycas.cn/)，在导航栏点击`Web Editor`，跳转后点击红色的`Start Creating`按钮，之后点击`Connect with gitlab`进行认证。
 
-{: .warning }
->别用gmail或者任何在中国大陆无法访问/注册的邮箱，这有可能触发gitlab的双重验证，而中国大陆的手机号是无法通过验证的
-
-### ~~关notification~~
 ## 创建网站
 
 你可以选择从头开始，或者选择一个 ~~模版~~ 。
@@ -26,3 +20,5 @@ nav_order: 2
 >可以随便修改名字，但是务必要确保其是以`silex_`开始。silex会且只会自动识别以`silex_`开始的库
 
 成功后进入你的[KeyCAS editor](https://edit.keycas.cn/en/)应该就能看到你选择的模版显示在dashboard中了
+
+现在，你应该已经创建了一个网站草稿,下一步是编辑网站。
