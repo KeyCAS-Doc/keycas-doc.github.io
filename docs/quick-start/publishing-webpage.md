@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 发布网站
-nav_order: 6
+parent: 快速开始
+nav_order: 3
 ---
 
 

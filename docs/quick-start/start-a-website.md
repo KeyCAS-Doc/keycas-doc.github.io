@@ -1,7 +1,8 @@
 ---
 layout: default
-title: 快速开始
-nav_order: 2
+title: 创建网站
+parent: 快速开始
+nav_order: 1
 ---
 # 快速开始
 
