@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 编辑网站
-nav_order: 4
+title: 基础
+nav_order: 3
 ---
 
 # 编辑网站
@@ -9,6 +9,14 @@ nav_order: 4
 ![Editor starting image](./images/editor-start.png)
 接下来，您可以向您的网站中添加模块。点击左上角的 `+`，将你需要的模块拖动到画布上。
 ![Basic move](./gifs/move-basic.gif)
+
+## 基础功能
+![Left Tool Bar](./images/tool-bar-intro.png)
+### 左侧工具栏
+1.
+
+### 右侧工具栏
+
 ## 基础模块
 本编辑器中含有5个基础模块。这五个基础模块将帮助你构造你网站中的大部分内容。
 ### 文本
