@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 基础
+title: 基础功能
 nav_order: 3
 ---
 
@@ -11,7 +11,10 @@ nav_order: 3
 ![Basic move](./gifs/move-basic.gif)
 
 ## 基础功能
-![Left Tool Bar](./images/editor-overview.png.png)
+![Editor Overview](./images/editor-overview.png)
+
+{: .warning }
+>由于编辑器的有些功能还没确定下来，这个overview只是个草稿，图画的可能会有点大变，之后功能确定了会改
 ### 左侧工具栏
 1. 添加新模块
 2. 添加图标
@@ -25,6 +28,7 @@ nav_order: 3
 10. 查看silex文档
 
 ### 右侧工具栏
+#### 设计
 1. 管理组
 2. 搜索栏
 3. 通用
@@ -32,6 +36,7 @@ nav_order: 3
 5. 字体样式
 6. 装饰
 7. 额外功能
+#### 设置
 ## 基础模块
 本编辑器中含有5个基础模块。这五个基础模块将帮助你构造你网站中的大部分内容。
 ### 文本
