@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 基础功能
-nav_order: 3
+nav_order: 5
 ---
 
 # 编辑网站

@@ -1,12 +1,10 @@
 ---
 layout: default
 title: 快速开始
-nav_order: 3
+nav_order: 2
 ---
 # 快速开始
 
-{: .warning }
->如果您之前没有使用Ps，Wordpress等图像或网页编辑器的经验，请移步至
 
 ## 创建账户
 访问[https://keycas.cn/](https://keycas.cn/)，在导航栏点击`Web Editor`，跳转后点击红色的`Start Creating`按钮，之后点击`Connect with gitlab`进行认证。
@@ -34,3 +32,5 @@ nav_order: 3
 成功后进入你的[KeyCAS editor](https://edit.keycas.cn/en/)应该就能看到你选择的模版显示在dashboard中了
 
 现在，你应该已经创建了一个网站草稿,下一步是编辑网站。
+
+
