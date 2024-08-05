@@ -27,7 +27,7 @@ nav_order: 1
 
 要选择模版的话，访问 https://gitlab.com/，使用你登录Silex所使用的账号登录。假设你希望使用[这个模版](https://gitlab.com/JeremyZXi/silex_JeremyZXi.gitlab.io)，你则需要访问https://gitlab.com/JeremyZXi/silex_JeremyZXi.gitlab.io 或搜索这个模版的名字`silex_JeremyZXi.gitlab.io`。进入这个库的首页然后点击右上角的`fork`。之后你可以选择将其设置为private或public
 
-{: warning}
+{: .warning}
 >此处需要一个gif
 
 {: .important }
