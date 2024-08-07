@@ -5,11 +5,22 @@ parent: 快速开始
 nav_order: 2
 ---
 # 编辑网站
+{: .no_toc }
+<details open markdown="block">
+  <summary>
+    目录
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 {: .important}
 >~~如果您之前没有使用Ps，Wordpress等图像或网页编辑器的经验，建议先移步至[基础功能](https://keycas-doc.github.io/docs/basic-functions/)~~
 
 {: .important}
 >以下是为想要从头开始创造网页的用户准备的全流程文档；如果您准备使用模版，可以通过下方目录直接跳转到您感兴趣的模块，以了解该模块的使用方法。
+---
 
 点击您刚刚创建的网页草稿，以下页面将会出现：
 ![Editor starting image](../images/editor-start.png)
