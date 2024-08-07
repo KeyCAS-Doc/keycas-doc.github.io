@@ -22,10 +22,12 @@ nav_order: 2
 >以下是为想要从头开始创造网页的用户准备的全流程文档；如果您准备使用模版，可以通过下方目录直接跳转到您感兴趣的模块，以了解该模块的使用方法。
 ---
 
-点击您刚刚创建的网页草稿，以下页面将会出现：
-![Editor starting image](../images/editor-start.png)
+点击您刚刚创建的网页草稿，以下页面将会出现： 
+<img src="../images/editor-start.png" alt="pages" width="1000"/>
+
 接下来，您可以向您的网站中添加模块。点击左上角的 `+`，将你需要的模块拖动到画布上。
-![Basic move](../gifs/move-basic.gif)
+
+ <img src="../gifs/move-basic.gif" alt="pages" width="1000"/>
 
 通过将不同的元素拖动到画布上进行组合，您可以创造出您想要的视觉效果。
 # 基础模块
