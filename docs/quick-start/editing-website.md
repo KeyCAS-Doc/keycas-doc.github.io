@@ -36,7 +36,7 @@ nav_order: 2
 接下来，在左侧工具栏中找到“container”，将其拖动至画布上。在右侧属性栏中，点开“extra”，找到“column count”，将其调到2，并尝试将两个卡片拖入容器内。
 
 {: .important}
->如果您在这个过程中发现选中容器十分困难，您可以在左侧工具栏的![layout](../images/layout.png) 中选中容器。
+>如果您在这个过程中发现选中容器十分困难，您可以在左侧工具栏<img src="../images/layout.png" alt="lay out" width="20"/>中选中容器。
 >这个功能在之后的网页编辑中也将派上用场。您还可以在其中整理、归纳您网页中的分层
 
 （此处应有gif）
@@ -66,9 +66,9 @@ nav_order: 2
 ### 按钮
 您可以在您的网页上布置按钮来实现页面的跳转。
 
-在左侧工具栏中找到页面管理(![pages](../images/page.png)),并点击加号，给新页面命名之后选择"ok"
+在左侧工具栏中找到页面管理 <img src="../images/page.png" alt="pages" width="20"/> ,并点击加号，给新页面命名之后选择"ok"
 
-在模块中找到任意含有按钮的模块（如navbar）,将其拖动至画布上。选中其上面的任意一个按钮，（如navbar中的"about"）。找到右侧工具栏上的的设置按钮(![settings](../images/settings.png)),在"link"旁边的"type"选项框中选择"pages",并在下方出现的"page name"中选择您刚刚创建页面的名字。这样，用户在您的网页中点击该按钮就会跳转至您新建的页面。
+在模块中找到任意含有按钮的模块（如navbar）,将其拖动至画布上。选中其上面的任意一个按钮，（如navbar中的"about"）。找到右侧工具栏上的的设置按钮 <img src="../images/settings.png" alt="pages" width="20"/>,在"link"旁边的"type"选项框中选择"pages",并在下方出现的"page name"中选择您刚刚创建页面的名字。这样，用户在您的网页中点击该按钮就会跳转至您新建的页面。
 
 您也可以通过改变"type"中的选项来让按钮担任别的功能，如跳转到外部url。
 
