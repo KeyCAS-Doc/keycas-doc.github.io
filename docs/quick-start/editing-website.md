@@ -23,7 +23,7 @@ nav_order: 2
 ---
 
 点击您刚刚创建的网页草稿，以下页面将会出现： 
-<img src="../images/editor-start.png" alt="pages" width="1000"/>
+<img src="../images/editor-start.png" alt="pages" width="1000" />
 
 接下来，您可以向您的网站中添加模块。点击左上角的 `+`，将你需要的模块拖动到画布上。
 
